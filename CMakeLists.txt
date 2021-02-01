@@ -22,7 +22,7 @@ link_directories(
 )
 
 # 编译参数
-add_definitions(-O3 -g -Wall -std=gnu99 -pthread)
+add_definitions(-O3 -ggdb -Wall -std=gnu99 -pthread)
 
 # 设置可执行文件输出目录
 SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR})
