@@ -9,7 +9,7 @@ include_directories(
     skynet-src
     3rd/lua
     3rd/lua-md5
-    3rd/jemalloc/include
+	3rd/jemalloc/include/jemalloc
     3rd/lpeg
     lualib-src
     lualib-src/sproto

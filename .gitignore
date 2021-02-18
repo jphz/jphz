@@ -3,3 +3,4 @@ cservice/
 skynet_run
 build/
 .idea/
+3rd/jemalloc
