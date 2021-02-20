@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message RoleInfo{
+    uint64 char_idx = 1;
+    string char_name = 2;
+    uint32 age = 3;
+}
