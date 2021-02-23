@@ -1,6 +1,7 @@
 luaclib/
 cservice/
-skynet_run
+run
+client
 build/
 .idea/
 3rd/jemalloc
