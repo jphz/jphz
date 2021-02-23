@@ -33,3 +33,6 @@ subdirs(
     service-src
     lualib-src
 )
+
+add_executable(c_client learn/66_socket_client.c)
+target_link_libraries(c_client pthread)
