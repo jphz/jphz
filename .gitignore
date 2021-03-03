@@ -1,9 +1,8 @@
 luaclib/
 cservice/
-run
 client
 build/
 .idea/
 3rd/jemalloc
-run
 c_client
+run
